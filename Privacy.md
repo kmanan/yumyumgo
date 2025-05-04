@@ -1,6 +1,6 @@
 # YUM YUM GO PRIVACY POLICY
 
-**Last Updated: [Current Date]**
+**Last Updated: May 2025**
 
 ## INTRODUCTION
 
@@ -93,4 +93,4 @@ If we make material changes to this policy, we will post the updated policy on o
 ## CONTACT US
 
 If you have any questions about this privacy policy or our privacy practices, please contact us at:
-[Your Contact Email]
+admin@krytonlabs.com
