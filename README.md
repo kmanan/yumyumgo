@@ -2,7 +2,7 @@
 
 Yum Yum Go is a fun, interactive mobile app designed to help children develop healthy eating habits through gamification. The app encourages balanced nutrition by rewarding users for creating well-rounded meal plans.
 
-
+![screens](https://github.com/user-attachments/assets/19103d4d-2203-4df6-9124-1fb6e3fa86c6)
 
 ## Game Overview
 
